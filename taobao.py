@@ -14,7 +14,7 @@ def Usage():
     print ('    -n    --num:    搜索页数，每页包含44条商品数据，如输入2，那说明会抓取2*44条商品数据')
     print ('    -f    --file:    获取的文件保存位置，默认为D:\iphone.txt')
     print ('使用实例：')
-    print ('python taobao-spider.py -k 滑板鞋 -n 5 -f D:\huaban.txt')
+    print ('python taobao.py -k 滑板鞋 -n 5 -f D:\huaban.txt')
 def Version():
     print ('python-spider 1.0.0')
 def OutPut(args):
