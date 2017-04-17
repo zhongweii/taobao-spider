@@ -7,5 +7,5 @@
   -n  --num:    搜索页数，每页包含44条商品数据，如输入2，那说明会抓取2*44条商品数据<br>
   -f  --file:   获取的文件保存位置，默认为D:\iphone.txt<br>
 使用实例：<br>
-  python taobao.py -k 滑板鞋 -n 5 -f D:\huaban.txt<br>
+  <pre>python taobao.py -k 滑板鞋 -n 5 -f D:\huaban.txt</pre><br>
 Python环境：python 3.*
