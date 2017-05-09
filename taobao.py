@@ -7,7 +7,7 @@ import requests
 import json
 
 def Usage():
-    print ('taobao-spider 使用指南:')
+    print ('艾斯卡尔  taobao-spider 使用指南:')
     print ('    -h    --help:    显示帮助信息.')
     print ('    -v    --ver:    显示脚本版本')
     print ('    -k    --key:    搜索关键词，默认 iphone7')
